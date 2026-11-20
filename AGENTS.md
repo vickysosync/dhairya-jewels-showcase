@@ -28,3 +28,7 @@ use the editor.
   own key and store it in Secrets.
 - **Secrets.** Lovable manages them. Do not put secret values in the repo.
 <!-- LOVABLE:END -->
+
+## Application structure
+
+- Keep the existing TanStack Start routing and implement the storefront in its route files; this preserves the current project's framework and direct URL behavior.

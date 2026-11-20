@@ -1,0 +1,18 @@
+{
+  "source": "https://github.com/kumarianisha32399-maker/dhairya-gems-jewels-68",
+  "source_inspection": "The public repository contained only the default TanStack starter, with no jewellery products, image assets, routes, database schema, or exported records.",
+  "capabilities": [
+    {"capability":"application code","source":"GitHub starter repository","outcome":"Continue in the existing Lovable project using its TanStack structure; implement the requested storefront and demo administration without replacing project metadata.","status":"migrate","next_action":"Build and verify public shopping and admin flows."},
+    {"capability":"schema","source":"No application schema or database configuration found","outcome":"No source backend to migrate; use requested frontend-only mock behavior and localStorage.","status":"not_applicable","next_action":"None."},
+    {"capability":"records","source":"No product catalogue or record export found in the GitHub repository","outcome":"Seed a clearly marked demonstration catalogue because the repository is empty.","status":"migrate","next_action":"Use demo products and do not claim these were copied from GitHub."},
+    {"capability":"auth and identities","source":"No source authentication or users found","outcome":"No user accounts to migrate; implement the requested local demo admin login only.","status":"not_applicable","next_action":"None."},
+    {"capability":"authorization","source":"No source role or access rules found","outcome":"No authorization system to migrate; limit access to the requested frontend demo admin gate.","status":"not_applicable","next_action":"None."},
+    {"capability":"uploaded file bytes","source":"No jewellery media files found in repository","outcome":"Use available licensed/generative demonstration imagery; no source images can be transferred.","status":"pending","next_action":"Replace demo photography with client-approved product images when supplied."},
+    {"capability":"external providers","source":"No provider integrations or required variables found","outcome":"No external provider is configured or required for the demo.","status":"not_applicable","next_action":"None."},
+    {"capability":"public endpoints and callbacks","source":"None detected","outcome":"No endpoints or callbacks to migrate.","status":"not_applicable","next_action":"None."},
+    {"capability":"webhooks and schedules","source":"None detected","outcome":"No webhooks or scheduled jobs to migrate.","status":"not_applicable","next_action":"None."},
+    {"capability":"secrets","source":"None detected","outcome":"No source secrets or environment values required.","status":"not_applicable","next_action":"None."},
+    {"capability":"cutover","source":"GitHub starter repository","outcome":"No production site, data service, or external URL cutover identified.","status":"not_applicable","next_action":"None."},
+    {"capability":"verification","source":"Current Lovable project preview","outcome":"Verify the demo storefront and locally persisted admin edits in preview.","status":"pending","next_action":"Check public pages, cart/wishlist, demo checkout, admin access, and responsive layout."}
+  ]
+}
